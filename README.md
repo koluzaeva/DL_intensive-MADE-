@@ -1,2 +1,2 @@
 # DL_intensive-MADE-
-Final task Deep Learning Basic
+Финальное задание выполненов в блокноте Google Colab OCRrecognition.ipynb
